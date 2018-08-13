@@ -1,0 +1,12 @@
+# Go
+In the directory containing .go file run "go build" with no args
+it outputs executable like C but with the same name as the NAME.go file so just run ./NAME from that same directory
+
+# Java
+javac FILENAME.java
+java FILENAME
+
+# Python
+python(3) FILENAME.py
+
+

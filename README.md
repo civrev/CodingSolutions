@@ -1,12 +1,10 @@
-# ProblemSolving
+# CodingSolutions
 
-This repository is about me making solutions to coding problems and challenges.
-I made 3 attempts to solve this problem. All three perform roughly the same,
-with SolutionThree being my best solution.
+The repository is about solving problems from open.kattis.com
 
-Files:
-- input.txt: Sample Input
-- output.txt: Output of SolutionThree
-- src/SolutionOne.java: Solved the problem using HashTable and merge-sort
-- src/SolutionTwo.java: Solved the problem using HashTable and MaxHeap
-- src/SolutionThree.java: Solved the problem using HashTable and HashSet array (best attempt)
+I enjoy doing programming problems in my free time and it helps familiarize me with the standard libraries and features of many different programming languages.
+
+# Guide
+Folders are numbered to match the difficulty I boserved the problem to be at the time (Kattis uses an algorithm to determine problem difficulty so it can vary widely over time). Difficulties are 1 -> 9 though don't expect higher numbers in here. Problems posted here are only approved solutions.
+
+I run these on Linux with {program execution} < sample.in
